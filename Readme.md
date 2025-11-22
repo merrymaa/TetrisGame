@@ -25,4 +25,5 @@ A terminal-based implementation of the classic *Tetris* game, written in **C (C1
 
 ### Compilation
 ```bash
+cd src
 make install
